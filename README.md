@@ -45,7 +45,7 @@ crm-system/
 │   └─ customerController.php  → Business logic + request handling
 │
 ├─ core/
-│   └─ Validator.php           → Custom validation rules
+│   └─ validator.php           → Custom validation rules
 │
 ├─ views/
 │   └─ customers/
