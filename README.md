@@ -150,10 +150,9 @@ It represents my first full-stack development journey built entirely from scratc
 - Dashboard with analytics
 
 ---
+## Author
 
-## 👨‍💻 Author
-
-**Shamal Gunathilake**  
-🤖 -Bachelor of Information Technology (BIT) Student Passionate about Software Development, AI, and Core CS Fundamentals
-💻 -Full Stack Developer (PHP | MySQL | OOP | MVC)  
-📍  -Building my journey in backend engineering
+Shamal Gunathilake  
+🎓 BIT Student passionate about Software Development, AI, and Core CS fundamentals  
+💻 Full Stack Developer (PHP | MySQL | OOP | MVC)  
+📍 Building my journey in backend engineering
