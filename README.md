@@ -32,7 +32,7 @@ This project simulates a basic banking style customer management system, where u
 ---
 
 ## 📁 Project Structure
-
+```
 crm-system/
 │
 ├─ config/
@@ -59,7 +59,7 @@ crm-system/
 ├─ routes.php                  → Application routing logic
 └─ index.php                   → Entry point
 
-
+```
 ---
 
 ## ⚙️ How It Works
